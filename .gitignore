@@ -1,0 +1,43 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS Files
+*.log
+.DS_Store
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# The .classpath for eclipse would go here
+# Each project may want to delete these originally included files:
+# .classpath
+# .project
+.settings/
+
+# OS-specific files/folders
+*~
+.classpath
+.c9/
+*.class
+*.log
+*.pyc
+*.swp
+.env
+.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Generated files
+bin/
+gen/

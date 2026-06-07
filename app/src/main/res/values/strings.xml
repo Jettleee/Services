@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chronomètre Jettlee Service</string>
+    <string name="title_activity_main">Chronomètre Jettlee</string>
+    <string name="btn_start">DÉMARRER SERVICE</string>
+    <string name="btn_stop">ARRÊTER SERVICE</string>
+    <string name="btn_reset">RESET</string>
+    <string name="notification_title">Chronomètre Jettlee en cours</string>
+    <string name="notification_text">Temps : </string>
+</resources>

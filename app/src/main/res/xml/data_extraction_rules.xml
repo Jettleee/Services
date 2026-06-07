@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <domain-config>
+        <domain includeSubdomains="true">example.com</domain>
+        <path-config strikethrough="false">
+            <path-element>shared/</path-element>
+        </path-config>
+    </domain-config>
+</data-extraction-rules>
